@@ -18,5 +18,4 @@ class CreateCostumes<ActiveRecord::Migrations[5.1]
       i.timestamps
     end
   end
-
 end
